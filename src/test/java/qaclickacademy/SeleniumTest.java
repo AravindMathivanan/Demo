@@ -20,6 +20,11 @@ public class SeleniumTest {
 		System.out.println("Its git develop branch");
 	}
 	
+	public void gitBranch1() {
+		System.out.println("Its git");
+		System.out.println("Its git develop branch");
+	}
+	
 	@Test
 	public void selesecond() {
 		System.out.println("Its selesecond");
