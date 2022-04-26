@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="103" started-at="2022-03-31T20:45:58 IST" finished-at="2022-03-31T20:45:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="103" started-at="2022-03-31T20:45:58 IST" finished-at="2022-03-31T20:45:58 IST">
+      <class name="qaclickacademy.ApiTest">
+        <test-method status="PASS" signature="apifirst()[pri:0, instance:qaclickacademy.ApiTest@6ee52dcd]" name="apifirst" duration-ms="1" started-at="2022-03-31T20:45:58 IST" finished-at="2022-03-31T20:45:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apifirst -->
+        <test-method status="PASS" signature="apisecon()[pri:0, instance:qaclickacademy.ApiTest@6ee52dcd]" name="apisecon" duration-ms="1" started-at="2022-03-31T20:45:58 IST" finished-at="2022-03-31T20:45:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apisecon -->
+      </class> <!-- qaclickacademy.ApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="selefirst()[pri:0, instance:qaclickacademy.SeleniumTest@3712b94]" name="selefirst" duration-ms="17" started-at="2022-03-31T20:45:58 IST" finished-at="2022-03-31T20:45:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selefirst -->
+        <test-method status="PASS" signature="selesecond()[pri:0, instance:qaclickacademy.SeleniumTest@3712b94]" name="selesecond" duration-ms="1" started-at="2022-03-31T20:45:58 IST" finished-at="2022-03-31T20:45:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selesecond -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
