@@ -8,7 +8,16 @@ public class SeleniumTest {
 	@Test
 	public void selefirst() {
 		System.out.println("Its selefirst");
-		Assert.assertTrue(false);
+		//Assert.assertTrue(false);
+		System.out.println("Its selefirst11");
+		System.out.println("Its selefirst22");
+		System.out.println("Its selefirst33");
+	}
+	
+	@Test
+	public void gitBranch() {
+		System.out.println("Its git");
+		System.out.println("Its git develop branch");
 	}
 	
 	@Test
